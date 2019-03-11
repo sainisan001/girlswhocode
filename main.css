@@ -3,9 +3,12 @@ Reference your projects from the summer
 If you don't have a summer project, let me know!*/
 
 body {
-    background-color: black;
+    background-color: blueviolet;
 }
 
 h1 {
     color: pink;
+}
+p {
+    color: blue;
 }
